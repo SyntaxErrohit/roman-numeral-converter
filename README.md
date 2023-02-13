@@ -1,2 +1,3 @@
 # roman-numeral-converter
-converts roman numerals to integers in python
+
+yet another short code to converts roman numerals to integers in python.. self explanatory :)
